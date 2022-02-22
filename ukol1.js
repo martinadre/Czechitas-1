@@ -10,7 +10,7 @@ let vek = 36;
 let vaha = 62;
 let vyska = 1.76;
 
-let BMI = vaha / vyska;
+let BMI = vaha / vyska ** 2;
 console.log(
   'Jmenuji se ' +
     jmeno +
