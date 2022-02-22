@@ -21,5 +21,6 @@ console.log(
     'a žena ' +
     jmenoZena +
     ' jsou od sebe věkově vzdáleni ' +
-    rozdilMesicu
+    rozdilMesicu +
+    ' měsíců.'
 );
