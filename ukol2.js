@@ -15,4 +15,11 @@ let mesicZena = 12;
 
 let rozdilMesicu = (rokZena - rokMuz) * 12 + (mesicZena - mesicMuz);
 
-console.log(rozdilMesicu);
+console.log(
+  'Muž ' +
+    jmenoMuz +
+    'a žena ' +
+    jmenoZena +
+    ' jsou od sebe věkově vzdáleni ' +
+    rozdilMesicu
+);
