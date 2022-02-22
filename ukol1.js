@@ -11,5 +11,22 @@ let vaha = 62;
 let vyska = 1.76;
 
 let BMI = vaha / vyska;
-
-console.log(BMI);
+console.log(
+  'Jmenuji se ' +
+    jmeno +
+    ', ' +
+    'je mi ' +
+    vek +
+    ' let' +
+    ', ' +
+    'vážím ' +
+    vaha +
+    'kg' +
+    ', ' +
+    'měřím ' +
+    vyska +
+    'm ' +
+    'a moje BMI je ' +
+    BMI +
+    '.'
+);
