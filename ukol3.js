@@ -6,9 +6,16 @@ právo řídit auto.
 b) Vaše jméno je Marian, je vám 14 let a tak musíte 
 počkat ještě 4 let, než budete moci řídit auto*/
 
-let jmeno = prompt("Napiš své jméno")
-let vek = Number(prompt(Napiš svůj věk"))
+let jmeno = prompt('Napiš své jméno');
+let vek = Number(prompt('Napiš svůj věk'));
 
-if (vek=30) {"Vaše jméno je " + jmeno + " a máte právo řídit auto."}
-
-
+if (vek >= 18) {
+  console.log(
+    'Vaše jméno je ' + jmeno + ', máte ' + vek + ' a máte právo řídit auto.'
+  );
+} else {
+  let kolikzbyva = 18 - vek;
+  console.log(
+    'Vaše jméno je ' + jmeno + 'a zbývá Vám ještě ' + kolikzbyva + ' let.'
+  );
+}
