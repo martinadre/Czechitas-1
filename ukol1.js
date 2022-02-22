@@ -1,3 +1,5 @@
-let jirik = 54;
+let a = 5;
+let b = 10;
 
-console.log(jirik);
+let soucet = a + b + 100;
+console.log(a / 100);
