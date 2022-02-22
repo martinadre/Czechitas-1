@@ -1,7 +1,3 @@
-console.log('ahoj');
-//k vypsani do konzole
-/*
-vice řádkový komentář
+let jirik = 54;
 
-*/
-prompt('Kolik je ti let?');
+console.log(jirik);
