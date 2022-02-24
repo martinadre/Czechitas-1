@@ -25,10 +25,9 @@ function jePrvocislo(x) {
     if (x % i === 0) {
       jePrvocislo = false;
       break;
-    } 
-
-    return "Číslo: " + x + " je prvocislo? " + jePrvocislo
     }
+
+    return 'Číslo: ' + x + ' je prvocislo? ' + jePrvocislo;
   }
 }
 
