@@ -3,4 +3,5 @@ import './ukol2';
 
 import './ukol3'*/
 
-import './for2';
+//import './for2';
+
