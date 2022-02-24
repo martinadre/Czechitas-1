@@ -31,4 +31,4 @@ function jePrvocislo(x) {
   }
 }
 
-jePrvocislo(9);
+jePrvocislo(10);
