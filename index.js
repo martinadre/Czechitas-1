@@ -3,5 +3,5 @@ import './ukol2';
 
 import './ukol3'*/
 
-import './ukol4'
+import './ukol'
 
