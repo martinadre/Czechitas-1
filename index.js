@@ -1,5 +1,6 @@
-//import './funkce1';
+import './while1';
 
+/*
 let x = 0;
 
 while (x < 5) {
@@ -15,3 +16,6 @@ while (cislo < 10) {
 
   cislo = cislo + 1;
 }
+*/
+
+//console.log('Ahoj');
