@@ -1,4 +1,4 @@
-import './while1';
+import './whileukol1';
 
 /*
 let x = 0;
