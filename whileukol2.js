@@ -18,4 +18,3 @@ while (cislo !== 0) {
   console.log('Součet je: ' + soucet);
   cislo = Number(prompt('Zadej další číslo.'));
 }
-console.log(soucet);
