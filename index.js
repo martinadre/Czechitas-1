@@ -20,4 +20,4 @@ while (cislo < 10) {
 
 //console.log('Ahoj');
 
-let cislo = prompt('Zadej číslo odlišné od 0.');
+
