@@ -11,5 +11,5 @@ let cislo = 0;
 while (cislo < 10) {
   console.log('Ahoj');
 
-  cislo = cislo + 1;
+  cislo = cislo++;
 }
