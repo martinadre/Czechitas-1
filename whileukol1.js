@@ -8,4 +8,6 @@ nezadá číslo odlišné od 0.
 
 let cislo = Number(prompt("Zadej číslo odlišné od 0."))
 
-while 
+while (cislo < 5) {
+  
+}
