@@ -6,8 +6,9 @@ nezadá číslo odlišné od 0.
 • Po úspěšném zadání čísla, číslo vypiš.
 */
 
-let cislo = Number(prompt("Zadej číslo odlišné od 0."))
+let cislo = Number(prompt('Zadej číslo odlišné od 0.'));
 
-while (cislo < 5) {
-  
+while (cislo === 0) {
+  cislo = Number(prompt('Číslo se nesmí rovnat 0!'));
 }
+console.log(cislo);
