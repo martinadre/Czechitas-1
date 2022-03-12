@@ -6,6 +6,6 @@ nezadá číslo odlišné od 0.
 • Po úspěšném zadání čísla, číslo vypiš.
 */
 
-let cislo = prompt("Zadej číslo odlišné od 0.")
+let cislo = Number(prompt("Zadej číslo odlišné od 0."))
 
 while 
